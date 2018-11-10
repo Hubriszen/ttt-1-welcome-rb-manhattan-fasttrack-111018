@@ -15,6 +15,17 @@ We're going to build a simple program that implements only the very first thing 
 
 1. Run `learn`
 2. Read output.
+3. 
+
+
+
+counter+=10if counter<=15
+
+number=10
+20.times do |n|
+puts n 
+puts"doing this ten times
+end
 3. Code solution in `lib/welcome.rb`
 4. Run `learn`
 5. Read output.
